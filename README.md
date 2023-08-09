@@ -1,1 +1,5 @@
 # gitlearning
+
+given 
+when 
+then
